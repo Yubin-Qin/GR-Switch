@@ -1,0 +1,23 @@
+.DS_Store
+.build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.ipa
+*.dSYM/
+
+# Per-machine settings and generated output
+Config/Signing.local.xcconfig
+.swiftpm/
+build/
+*.xcresult/
+*.xcarchive/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.p12
+*.p8
+*.mobileprovision
+*.provisionprofile

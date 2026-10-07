@@ -1,0 +1,5 @@
+// Copy to Signing.local.xcconfig and replace with your Apple Developer Team ID.
+// Never place certificates, private keys, passwords or provisioning profiles here.
+DEVELOPMENT_TEAM = YOUR_TEAM_ID
+// Keep the same bundle ID across Macs to continue the same app identity.
+// PRODUCT_BUNDLE_IDENTIFIER = com.yubin.GRTransfer

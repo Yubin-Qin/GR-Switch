@@ -1,0 +1,3 @@
+// Shared defaults. Personal signing settings stay in the ignored local file.
+PRODUCT_BUNDLE_IDENTIFIER = com.yubin.GRTransfer
+#include? "Signing.local.xcconfig"
